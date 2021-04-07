@@ -1,6 +1,6 @@
 line 1 - feature
 line 2
-line 3 - Right
+line 3 - Left
 line 4
 line 5
 line 6
