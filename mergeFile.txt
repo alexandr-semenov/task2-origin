@@ -7,4 +7,9 @@ line 6
 line 7 - Left
 line 8
 line 9 - Right 2
-line 10
+line 10 - Left
+line 11 - Left
+line 12 - Left
+line 13 - Left
+line 14 - Left
+line 15 - Left
