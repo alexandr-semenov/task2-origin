@@ -1,7 +1,7 @@
 line 1 - feature
 line 2
 line 3 - Right
-line 4
+line 4 - Right
 line 5
 line 6
 line 7 - Left
