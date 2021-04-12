@@ -1,4 +1,4 @@
-line 1.2
+line 1 - feature
 line 2
 line 3 - Left
 line 4
@@ -16,3 +16,5 @@ line 15 - Left
 line 16 - Left
 line 17 - Left
 line 18 - Left
+line 19 - Left
+line 20 - Left
