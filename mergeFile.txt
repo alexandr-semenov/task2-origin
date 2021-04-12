@@ -3,8 +3,8 @@ line 2 - feature
 line 3
 line 4
 line 5
-line 6
-line 7
+line 6 - newFeature
+line 7 - Left
 line 8
 line 9
 line 10
