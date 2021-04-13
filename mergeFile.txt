@@ -3,7 +3,7 @@ line 2
 line 3 - Right 2
 line 4 - Right
 line 5
-line 6
+line 6 - newFeature
 line 7 - Left
 line 8
 line 9 - Right 2
@@ -13,8 +13,3 @@ line 12 - Left 2
 line 13 - Left
 line 14 - Left
 line 15 - Left
-line 16 - Left
-line 17 - Left
-line 18 - Left
-line 19 - Left
-line 20 - Left
